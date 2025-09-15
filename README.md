@@ -1,5 +1,5 @@
 # GIT COMMANDS
-git init 
+git init \n
 git add .
 git commit -m " "
 git remote add origin https://github.com/HabibFaial-py/PF-Classwork.git
